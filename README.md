@@ -1,6 +1,4 @@
 # RevealSphere
-simple jumping game
-
 This is a simple shader that hides/reveals things within a certain radius. 
 
 float radius 
